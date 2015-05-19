@@ -11,4 +11,15 @@ Android优秀文章收集、整理、分享、记录。希望每天都学习记�
 * [检测Android应用的启动与关闭](Android-Excellent-Articles/检测Android应用的启动与关闭.md "检测Android应用的启动与关闭")
 * [在Activity中使用Thread导致的内存泄漏](Android-Excellent-Articles/在Activity中使用Thread导致的内存泄漏.md "在Activity中使用Thread导致的内存泄漏")
 * [Android中将布局文件View添加至窗口过程分析(从setContentView()谈起)](Android-Excellent-Articles/Android中将布局文件View添加至窗口过程分析(从setContentView()谈起).md "Android中将布局文件View添加至窗口过程分析(从setContentView()谈起)")
-* 
+
+## Open-Project-Analysis（开源项目分析） ##
+* [Android Lock Pattern 源码解析](Android-Open-Project-Analysis/android-lockpattern "Android Lock Pattern 源码解析")
+* [CircularFloatingActionMenu 源码解析](Android-Open-Project-Analysis/circular-floating-action-menu "CircularFloatingActionMenu 源码解析")
+* [Dagger 源码解析](Android-Open-Project-Analysis/dagger "Dagger 源码解析")
+* [EventBus 源码解析](Android-Open-Project-Analysis/event-bus "EventBus 源码解析")
+* [HoloGraphLibrary 源码解析](Android-Open-Project-Analysis/holographlibrary "HoloGraphLibrary 源码解析")
+* [PhotoView 源码解析](Android-Open-Project-Analysis/photoview "PhotoView 源码解析")
+* [Android Universal Image Loader 源码分析](Android-Open-Project-Analysis/universal-image-loader "Android Universal Image Loader 源码分析")
+* [ViewPagerindicator 源码解析](Android-Open-Project-Analysis/view-pager-indicator "Dagger ViewPagerindicator 源码解析")
+* [Volley 源码解析](Android-Open-Project-Analysis/volley "Dagger Volley 源码解析")
+* [xUtils 源码解析](Android-Open-Project-Analysis/xutils "xUtils 源码解析")
