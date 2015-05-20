@@ -23,3 +23,13 @@ Android优秀文章收集、整理、分享、记录。希望每天都学习记�
 * [ViewPagerindicator 源码解析](Android-Open-Project-Analysis/view-pager-indicator "Dagger ViewPagerindicator 源码解析")
 * [Volley 源码解析](Android-Open-Project-Analysis/volley "Dagger Volley 源码解析")
 * [xUtils 源码解析](Android-Open-Project-Analysis/xutils "xUtils 源码解析")
+
+## Performance-Optimization（性能优化） ##
+* [Android性能优化典范综述](Android-Performance-Patterns-Analysis/android-performance-patterns "Android性能优化典范综述")
+* [Android性能优化之渲染篇(Render)](Android-Performance-Patterns-Analysis/android-performance-render "Android性能优化之渲染篇")
+* [Android性能优化之运算篇(Compute)](Android-Performance-Patterns-Analysis/android-performance-compute "Android性能优化之运算篇")
+* [Android性能优化之内存篇(Memory)](Android-Performance-Patterns-Analysis/android-performance-memory "Android性能优化之内存篇")
+* [Android性能优化之电量篇(Battery)](Android-Performance-Patterns-Analysis/android-performance-battery "Android性能优化之电量篇")
+* [Android性能优化之过渡绘制(Overdraw)](Android-Performance-Patterns-Analysis/android-performance-optimization-overdraw "Android性能优化之过渡绘制")
+
+* [Android内存优化之MAT使用(MAT)](Android-Performance-Patterns-Analysis/android-performance-memory-usage-of-MAT "Android内存优化之MAT使用")
