@@ -31,5 +31,4 @@ Android优秀文章收集、整理、分享、记录。希望每天都学习记�
 * [Android性能优化之内存篇(Memory)](Android-Performance-Patterns-Analysis/android-performance-memory "Android性能优化之内存篇")
 * [Android性能优化之电量篇(Battery)](Android-Performance-Patterns-Analysis/android-performance-battery "Android性能优化之电量篇")
 * [Android性能优化之过渡绘制(Overdraw)](Android-Performance-Patterns-Analysis/android-performance-optimization-overdraw "Android性能优化之过渡绘制")
-
 * [Android内存优化之MAT使用(MAT)](Android-Performance-Patterns-Analysis/android-performance-memory-usage-of-MAT "Android内存优化之MAT使用")
