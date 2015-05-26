@@ -11,8 +11,6 @@ Android优秀文章收集、整理、分享、记录。希望每天都学习记�
 * [检测Android应用的启动与关闭](Android-Excellent-Articles/检测Android应用的启动与关闭.md "检测Android应用的启动与关闭")
 * [在Activity中使用Thread导致的内存泄漏](Android-Excellent-Articles/在Activity中使用Thread导致的内存泄漏.md "在Activity中使用Thread导致的内存泄漏")
 * [Android中将布局文件View添加至窗口过程分析(从setContentView()谈起)](Android-Excellent-Articles/Android中将布局文件View添加至窗口过程分析(从setContentView()谈起).md "Android中将布局文件View添加至窗口过程分析(从setContentView()谈起)")
-* [CodeReview最佳实践](Android-Excellent-Articles/CodeReview最佳实践.md "Code Review最佳实践")
-* [听FackBook工程师讲Custom-ViewGroups](Android-Excellent-Articles/听FackBook工程师讲Custom-ViewGroups.md "听FackBook工程师讲Custom-ViewGroups")
 
 ## Open-Project-Analysis（开源项目分析） ##
 * [Android Lock Pattern 源码解析](Android-Open-Project-Analysis/android-lockpattern "Android Lock Pattern 源码解析")
