@@ -171,7 +171,7 @@ HTTP状态码被分为五大类， 目前我们使用的HTTP协议版本是1.1�
 
 实例：先打开Fiddler, 然后启动浏览器访问ditu.google.cn,  你会捕获到很多204
 
-![http_status_code_02](images/http_status_code/http_status_code_02.png)
+![http_status_code_02](images/http_status_code/http_status_code_02.PNG)
 
 <a name="206"/>
 ## 206 Partial Content(部分内容) ##
@@ -201,7 +201,7 @@ HTTP状态码被分为五大类， 目前我们使用的HTTP协议版本是1.1�
 2. Web服务器返回Response 301，Location=http://titu.google.cn  （告诉客户端我们的资源位于这里， ）
 3. 浏览器客户端会自动再发送一个Request 去访问http://titu.google.cn
 
-![http_status_code_04](images/http_status_code/http_status_code_04.png)
+![http_status_code_04](images/http_status_code/http_status_code_04.PNG)
 
 <a name="400"/>
 ## 400 Bad Request（坏请求) ##
@@ -225,8 +225,8 @@ Web客户端发送的请求被Web服务器拒绝了， 如果服务器想说明�
 
 实例:  发送一个是trace方法的Request 给www.google.com
 
-![http_status_code_05](images/http_status_code/http_status_code_05.png)
-![http_status_code_06](images/http_status_code/http_status_code_06.png)
+![http_status_code_05](images/http_status_code/http_status_code_05.PNG)
+![http_status_code_06](images/http_status_code/http_status_code_06.PNG)
 
 <a name="411"/>
 ## 411 Length Required（要求长度指示） ##
@@ -236,8 +236,8 @@ Web客户端发送的请求被Web服务器拒绝了， 如果服务器想说明�
 
 实例： 发送一个Post方法的Request 给www.google.com.   Request中没有Content-Length
 
-![http_status_code_07](images/http_status_code/http_status_code_07.png)
-![http_status_code_08](images/http_status_code/http_status_code_08.png)
+![http_status_code_07](images/http_status_code/http_status_code_07.PNG)
+![http_status_code_08](images/http_status_code/http_status_code_08.PNG)
 
 <a name="413"/>
 ## 413 Request Entity Too Large（请求实体太大） ##
@@ -245,8 +245,8 @@ Web客户端发送的请求被Web服务器拒绝了， 如果服务器想说明�
 
 实例: 用post方法发送一个大文件(100MB以上)给www.google.com
 
-![http_status_code_09](images/http_status_code/http_status_code_09.png)
-![http_status_code_10](images/http_status_code/http_status_code_10.png)
+![http_status_code_09](images/http_status_code/http_status_code_09.PNG)
+![http_status_code_10](images/http_status_code/http_status_code_10.PNG)
 
 <a name="414"/>
 ## 414 Request URI Too Long(请求URI太长) ##
@@ -254,8 +254,8 @@ Web客户端发送的请求被Web服务器拒绝了， 如果服务器想说明�
 
 例如：我们用Fiddler Composer发送一个很长的URI给Google, 比如 "www.google.com?q=asdfasdasf.."  q=后面的参数很长。 就可以看到414了
 
-![http_status_code_11](images/http_status_code/http_status_code_11.png)
-![http_status_code_12](images/http_status_code/http_status_code_12.png)
+![http_status_code_11](images/http_status_code/http_status_code_11.PNG)
+![http_status_code_12](images/http_status_code/http_status_code_12.PNG)
 
 <a name="500"/>
 ## 500 Internal Server Error(内部服务器错误) ##
@@ -263,8 +263,8 @@ Web客户端发送的请求被Web服务器拒绝了， 如果服务器想说明�
 
 实例：ASP.NET 程序出错
 
-![http_status_code_13](images/http_status_code/http_status_code_13.png)
-![http_status_code_14](images/http_status_code/http_status_code_14.png)
+![http_status_code_13](images/http_status_code/http_status_code_13.PNG)
+![http_status_code_14](images/http_status_code/http_status_code_14.PNG)
 
 <a name="501"/>
 ## 501 Not Implemented(未实现) ##
@@ -281,7 +281,7 @@ Web客户端发送的请求被Web服务器拒绝了， 如果服务器想说明�
 
 Fiddler本身就是代理服务器。  当我们访问www.facebook.com，这网站被我们天朝屏蔽了。 所以我们可以得到502
 
-![http_status_code_17](images/http_status_code/http_status_code_17.png)
+![http_status_code_17](images/http_status_code/http_status_code_17.PNG)
 
 <a name="505"/>
 ## 505 HTTP Version Not Supported(不支持的HTTP版本) ##
