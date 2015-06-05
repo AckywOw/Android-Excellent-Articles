@@ -14,6 +14,7 @@ Android优秀文章收集、整理、分享、记录。希望每天都学习记�
 * [CodeReview最佳实践](Android-Excellent-Articles/CodeReview最佳实践.md "Code Review最佳实践")
 * [听FackBook工程师讲Custom-ViewGroups](Android-Excellent-Articles/听FackBook工程师讲Custom-ViewGroups.md "听FackBook工程师讲Custom-ViewGroups")
 * [HTTP协议之状态码详解](Android-Excellent-Articles/HTTP协议之状态码详解.md "HTTP协议之状态码详解.md")
+* [Android将Activity打成jar包供第三方调用](Android-Excellent-Articles/Android%20将Activity打成jar包供第三方调用.md "Android 将Activity打成jar包供第三方调用.md")
 
 ## Open-Project-Analysis（开源项目分析） ##
 * [Android Lock Pattern 源码解析](Android-Open-Project-Analysis/android-lockpattern "Android Lock Pattern 源码解析")
